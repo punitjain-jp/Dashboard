@@ -811,6 +811,7 @@ url("./fonts/bootstrap-icons.woff?a74547b2f0863226942ff8ded57db345") format("wof
 .bi-heart-fill::before { content: "\f415"; }
 .bi-heart-half::before { content: "\f416"; }
 .bi-heart::before { content: "\f417"; }
+.bi-heart-pulse::before { content: "\f76f"; }
 .bi-heptagon-fill::before { content: "\f418"; }
 .bi-heptagon-half::before { content: "\f419"; }
 .bi-heptagon::before { content: "\f41a"; }
